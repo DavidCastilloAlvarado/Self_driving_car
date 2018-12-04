@@ -50,4 +50,4 @@ This will generate a file `model-<epoch>.h5` whenever the performance in the epo
 
 The credits for this code go to [naokishibuya](https://github.com/naokishibuya). I've merely created a wrapper to get people started.
 
-
+![Self-Driving Car Simulator](./sim_image.png)
