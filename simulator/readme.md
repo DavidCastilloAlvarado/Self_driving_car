@@ -40,11 +40,11 @@ python drive2.py check_model35.300-0.00406-3.20855.h5
 
 You'll need the data folder which contains the training images.
 
-```python
-python model.py
+```jupyter-notebook
+Training_model_self_driving.ipynb
 ```
 
-This will generate a file `model-<epoch>.h5` whenever the performance in the epoch is better than the previous best.  For example, the first epoch will generate a file called `model-000.h5`.
+This will generate a file `model-<epoch>.h5` whenever the performance in the epoch is better than the previous best.  For example, the first 50 epoch will generate a file called `check_model35.50-xxxx-xxxx.h5`.
 
 ## Credits
 
