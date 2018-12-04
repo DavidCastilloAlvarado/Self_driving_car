@@ -1,6 +1,7 @@
 ## Model based on Nvidia paper "End to End for Self Driving Cars"
-We adding the dropoud layer with factor 0.25, for the first five
+We added the dropoud layer with factor 0.25, for the first five
 convolutional layer and for the first full connected layer. 
+https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf
 
 ## Training Process
 The training process was run into a virtual machine in Google Cloud Platform
